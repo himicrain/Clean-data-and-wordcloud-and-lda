@@ -1,0 +1,917 @@
+{
+	"_id" : ObjectId("5a3e924376465cdcb91171cf"),
+	"text" : "I added a video to a @YouTube playlist ",
+	"id" : NumberLong("838746046767431680"),
+	"user" : {
+		"id" : NumberLong("824790250895470592"),
+		"description" : "Easy cooking and recipes on YouTube.  A variety of foods cooked in the toaster oven, stove top, crockpot, and grill. https://t.co/8tCKyUSufK",
+		"location" : "Petaluma, CA",
+		"name" : "TosTinMan EasyCookin"
+	},
+	"geo" : null,
+	"created_at" : "Mon Mar 06 13:40:15 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fa21476465cdcb9460197"),
+	"text" : "Murphy PAPA MURPHY'S TAKE 'N' BAKE PIZZA... ",
+	"id" : NumberLong("912503690728284162"),
+	"user" : {
+		"id" : 139342722,
+		"description" : "The Guide to Canada's Restaurants and Food Stores",
+		"location" : "Canada",
+		"name" : "FoodPages.ca"
+	},
+	"geo" : null,
+	"created_at" : "Tue Sep 26 02:26:48 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698d1"),
+	"text" : "",
+	"id" : NumberLong("941119842861625345"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.55995067,
+			-121.75730799
+		]
+	},
+	"created_at" : "Thu Dec 14 01:37:10 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf74b"),
+	"text" : "",
+	"id" : NumberLong("927656327442296833"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.55995067,
+			-121.75730799
+		]
+	},
+	"created_at" : "Mon Nov 06 21:57:58 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb3676465cdcb94bd19b"),
+	"text" : "",
+	"id" : NumberLong("920815243089055745"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.55995067,
+			-121.75730799
+		]
+	},
+	"created_at" : "Thu Oct 19 00:53:56 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb3676465cdcb94bd18f"),
+	"text" : "",
+	"id" : NumberLong("922970967516831744"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.55995067,
+			-121.75730799
+		]
+	},
+	"created_at" : "Tue Oct 24 23:40:01 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3faf0c76465cdcb9803a54"),
+	"text" : "",
+	"id" : NumberLong("917490433353273345"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.55995067,
+			-121.75730799
+		]
+	},
+	"created_at" : "Mon Oct 09 20:42:20 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f653376465cdcb91799c7"),
+	"text" : "",
+	"id" : NumberLong("891499751954403328"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.56025563,
+			-121.75736547
+		]
+	},
+	"created_at" : "Sun Jul 30 03:24:38 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f197376465cdcb9d6bc89"),
+	"text" : "",
+	"id" : NumberLong("878409030745673730"),
+	"user" : {
+		"id" : 36250672,
+		"description" : "Perfectly Flawed. ❤Cali Girl❤ My twitter = my alter ego. #TeamSagittarius #FreakNation #NinerEmpire #49ersFaithful #BlockHead #NKOTB",
+		"location" : "",
+		"name" : "Brandy"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.45402561,
+			-121.37225926
+		]
+	},
+	"created_at" : "Sat Jun 24 00:26:47 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef95276465cdcb940d48f"),
+	"text" : "Yelp ",
+	"id" : NumberLong("904062576929021952"),
+	"user" : {
+		"id" : NumberLong("2616616753"),
+		"description" : "Agency Director Liberty National Life",
+		"location" : "Charlotte NC",
+		"name" : "Mike Silvers"
+	},
+	"geo" : null,
+	"created_at" : "Sat Sep 02 19:24:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ee94776465cdcb9efee33"),
+	"text" : "",
+	"id" : NumberLong("871190560568209410"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.56025563,
+			-121.75736547
+		]
+	},
+	"created_at" : "Sun Jun 04 02:23:10 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ee94776465cdcb9efee2b"),
+	"text" : "",
+	"id" : NumberLong("871853003552288768"),
+	"user" : {
+		"id" : 1005150362,
+		"description" : "",
+		"location" : "",
+		"name" : "Anne Blindauer"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			43.76962707,
+			-87.72854301
+		]
+	},
+	"created_at" : "Mon Jun 05 22:15:28 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebf2476465cdcb9fc9d09"),
+	"text" : "",
+	"id" : NumberLong("849728686190469120"),
+	"user" : {
+		"id" : 254791401,
+		"description" : "Music nut and news junkie. Father of three and citizen of the world.",
+		"location" : "Davis, California, USA",
+		"name" : "Elias Mbvukuta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			38.56025563,
+			-121.75736547
+		]
+	},
+	"created_at" : "Wed Apr 05 21:01:20 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebf2476465cdcb9fc9d05"),
+	"text" : "",
+	"id" : NumberLong("852261108090097664"),
+	"user" : {
+		"id" : 143541778,
+		"description" : "",
+		"location" : "Appleton, WI",
+		"name" : "Vicki Johnson"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			44.28757813,
+			-88.40178967
+		]
+	},
+	"created_at" : "Wed Apr 12 20:44:17 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3e924376465cdcb91171cd"),
+	"text" : "Yelp ",
+	"id" : NumberLong("839199384562716673"),
+	"user" : {
+		"id" : NumberLong("2804094168"),
+		"description" : "",
+		"location" : "Auburn, WA",
+		"name" : "Jonathan Hardin"
+	},
+	"geo" : null,
+	"created_at" : "Tue Mar 07 19:41:39 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edd1676465cdcb9a1f1ca"),
+	"text" : "Yelp! ",
+	"id" : NumberLong("868918843619651584"),
+	"user" : {
+		"id" : NumberLong("2616616753"),
+		"description" : "Agency Director Liberty National Life",
+		"location" : "Charlotte NC",
+		"name" : "Mike Silvers"
+	},
+	"geo" : null,
+	"created_at" : "Sun May 28 19:56:10 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed0e276465cdcb95bc1a5"),
+	"text" : "",
+	"id" : NumberLong("860664784425037824"),
+	"user" : {
+		"id" : 109884054,
+		"description" : "Growing daily through service to others. Commercial Kitchen Design, Acquisition, Installation and Supplier.  Networking industry disciplines to eliminate hunger",
+		"location" : "Spokane WA",
+		"name" : "Tami Kennedy"
+	},
+	"geo" : null,
+	"created_at" : "Sat May 06 01:17:29 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3eaeed76465cdcb9b901ce"),
+	"text" : "",
+	"id" : NumberLong("844811501340844033"),
+	"user" : {
+		"id" : NumberLong("829284025428762624"),
+		"description" : "",
+		"location" : "",
+		"name" : "Vinni Mourya"
+	},
+	"geo" : null,
+	"created_at" : "Thu Mar 23 07:22:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ea37176465cdcb96e5e73"),
+	"text" : "",
+	"id" : NumberLong("845405961946910720"),
+	"user" : {
+		"id" : 1548934903,
+		"description" : "Nerd with a social life and closet Disney addict",
+		"location" : "Houston, TX",
+		"name" : "Jason Lombardi"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			29.539,
+			-95.5394
+		]
+	},
+	"created_at" : "Fri Mar 24 22:44:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41347776465cdcb9c7bc08"),
+	"text" : "",
+	"id" : NumberLong("930263285630427136"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Tue Nov 14 02:37:05 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40c8b176465cdcb92c06b7"),
+	"text" : "",
+	"id" : NumberLong("934897990069903362"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Sun Nov 26 21:33:45 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf741"),
+	"text" : "",
+	"id" : NumberLong("928741936969736193"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 09 21:51:47 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f8aec76465cdcb9cb5af4"),
+	"text" : "",
+	"id" : NumberLong("909089264528375809"),
+	"user" : {
+		"id" : NumberLong("841364884566687744"),
+		"description" : "Streaming the latest franchise news & opportunities from around the web.",
+		"location" : "",
+		"name" : "Franchise News"
+	},
+	"geo" : null,
+	"created_at" : "Sat Sep 16 16:19:05 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f763576465cdcb95dd956"),
+	"text" : "GunFriendly ",GunRights ",2A ",Guns ",NRA",",
+	"id" : NumberLong("898701999943946240"),
+	"user" : {
+		"id" : 1263277537,
+		"description" : "Easily find and rate local businesses who support your Second Amendment rights. Free app: iPhone: http://t.co/ZhHe0wTrdY, Android: http://t.co/jQNGl7YRGS",
+		"location" : "United States",
+		"name" : "2A Friendly"
+	},
+	"geo" : null,
+	"created_at" : "Sat Aug 19 00:23:48 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed0e276465cdcb95bc1a9"),
+	"text" : "",
+	"id" : NumberLong("860255932705644544"),
+	"user" : {
+		"id" : 21355794,
+		"description" : "Internet Entrepreneur.  Full time Internet #Marketer.  I always #followback.  #CreateMoreRevenue #EliteResidual",
+		"location" : "Federal Way, WA",
+		"name" : "Jack Casarez"
+	},
+	"geo" : null,
+	"created_at" : "Thu May 04 22:12:51 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebf2476465cdcb9fc9d0f"),
+	"text" : "",
+	"id" : NumberLong("849238690425704448"),
+	"user" : {
+		"id" : NumberLong("2346577063"),
+		"description" : "",
+		"location" : "Pensacola",
+		"name" : "Jobs-Pensacola"
+	},
+	"geo" : null,
+	"created_at" : "Tue Apr 04 12:34:16 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40c8b176465cdcb92c06b3"),
+	"text" : "",
+	"id" : NumberLong("936717506533736448"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Fri Dec 01 22:03:51 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40904676465cdcb9e25611"),
+	"text" : "",
+	"id" : NumberLong("923703836060946433"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Fri Oct 27 00:12:10 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f8aec76465cdcb9cb5af6"),
+	"text" : "",
+	"id" : NumberLong("908233832922537985"),
+	"user" : {
+		"id" : NumberLong("793637921383444480"),
+		"description" : "Meet the hottest franchises without ever leaving your office.\n\nRegister free for an upcoming Virtual Franchise Show and meet real franchise owners!",
+		"location" : "",
+		"name" : "VirtualFranchiseShow"
+	},
+	"geo" : null,
+	"created_at" : "Thu Sep 14 07:39:54 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f498976465cdcb9a96484"),
+	"text" : "WisconsinJobs ",WIjobs ",jobs Crew Member/Cashier - Papa Murphy's Take 'N' Bake Pizza - Grafton, WI see➔ ",
+	"id" : NumberLong("886765957263360002"),
+	"user" : {
+		"id" : 1199617717,
+		"description" : "The Cheese State : #WIJobs : Like us on Facebook http://t.co/AsgfmJw3pD  : State cities on the Lists : 50 states @USAJobConnecter",
+		"location" : "Wisconsin / WI",
+		"name" : "Wisconsin Jobs Work"
+	},
+	"geo" : null,
+	"created_at" : "Mon Jul 17 01:54:14 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f197376465cdcb9d6bc8d"),
+	"text" : "TacomaJobs ",SEAjobs ",WAjobs ",jobs Help Wanted - Papa Murphy's Take 'N' Bake Pizza - Bonney Lake,.. see➔ ",
+	"id" : NumberLong("876133772663631872"),
+	"user" : {
+		"id" : 1257457297,
+		"description" : "T-Town | Mobile Work Search™ | metro area @SEAAreaJobsWork | statewide @WAJobConnecter | nationwide @USAJobConnecter | http://t.co/ijK1EM1Iaz …",
+		"location" : "Tacoma, WA / SEA / #SEA",
+		"name" : "Tacoma Jobs Work"
+	},
+	"geo" : null,
+	"created_at" : "Sat Jun 17 17:45:43 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed65976465cdcb97c6574"),
+	"text" : "",
+	"id" : NumberLong("862493117550919681"),
+	"user" : {
+		"id" : 1012338752,
+		"description" : "",
+		"location" : "",
+		"name" : "sarah"
+	},
+	"geo" : null,
+	"created_at" : "Thu May 11 02:22:38 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed0e276465cdcb95bc1a3"),
+	"text" : "directory ",Hoover ",
+	"id" : NumberLong("860730617746554881"),
+	"user" : {
+		"id" : 378871162,
+		"description" : "#places #find",
+		"location" : "",
+		"name" : "PlacesX"
+	},
+	"geo" : null,
+	"created_at" : "Sat May 06 05:39:05 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3faf0c76465cdcb9803a62"),
+	"text" : "",
+	"id" : NumberLong("915348239267827712"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Tue Oct 03 22:50:01 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fa21476465cdcb9460195"),
+	"text" : "",
+	"id" : NumberLong("913872308753850368"),
+	"user" : {
+		"id" : 459603708,
+		"description" : "Local Businesses Local Deals!\nWHO'S PROMOTING YOUR BUSINESS?",
+		"location" : "Kenosha WI",
+		"name" : "KenoshaShopper.com"
+	},
+	"geo" : null,
+	"created_at" : "Fri Sep 29 21:05:11 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698d5"),
+	"text" : "",
+	"id" : NumberLong("940822989981077504"),
+	"user" : {
+		"id" : NumberLong("819741154052833282"),
+		"description" : "",
+		"location" : "",
+		"name" : "Happy Deals"
+	},
+	"geo" : null,
+	"created_at" : "Wed Dec 13 05:57:35 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698d3"),
+	"text" : "",
+	"id" : NumberLong("941080545467011073"),
+	"user" : {
+		"id" : NumberLong("822941564464926723"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deal-A-Minute"
+	},
+	"geo" : null,
+	"created_at" : "Wed Dec 13 23:01:01 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698cf"),
+	"text" : "",
+	"id" : NumberLong("941200879637680128"),
+	"user" : {
+		"id" : NumberLong("792486715445407746"),
+		"description" : "",
+		"location" : "New York, NY",
+		"name" : "Deals Deals Deals"
+	},
+	"geo" : null,
+	"created_at" : "Thu Dec 14 06:59:11 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698cb"),
+	"text" : "",
+	"id" : NumberLong("941545215420239873"),
+	"user" : {
+		"id" : NumberLong("826270865176264706"),
+		"description" : "Lyft Coupon Code BEG gives new Lyft users up to $50 ride credit.",
+		"location" : "",
+		"name" : "LYFT Coupon Code BEG"
+	},
+	"geo" : null,
+	"created_at" : "Fri Dec 15 05:47:27 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698c9"),
+	"text" : "",
+	"id" : NumberLong("941569589456134145"),
+	"user" : {
+		"id" : NumberLong("791804729244446720"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deal Experts"
+	},
+	"geo" : null,
+	"created_at" : "Fri Dec 15 07:24:18 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698c7"),
+	"text" : "",
+	"id" : NumberLong("941862583384117254"),
+	"user" : {
+		"id" : NumberLong("819367570218303489"),
+		"description" : "",
+		"location" : "",
+		"name" : "Sparking Deals"
+	},
+	"geo" : null,
+	"created_at" : "Sat Dec 16 02:48:33 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a41138976465cdcb94698c5"),
+	"text" : "",
+	"id" : NumberLong("942068672394350592"),
+	"user" : {
+		"id" : NumberLong("791800821906280450"),
+		"description" : "Use Lyft Promo Code LINX for up to $50 Lyft Ride Credit",
+		"location" : "",
+		"name" : "Lyft Promo Code LINX"
+	},
+	"geo" : null,
+	"created_at" : "Sat Dec 16 16:27:28 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40e68176465cdcb9b117a4"),
+	"text" : "",
+	"id" : NumberLong("937578303204003840"),
+	"user" : {
+		"id" : NumberLong("826590275963334656"),
+		"description" : "",
+		"location" : "",
+		"name" : "The Deal Guys"
+	},
+	"geo" : null,
+	"created_at" : "Mon Dec 04 07:04:21 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40e68176465cdcb9b1179e"),
+	"text" : "",
+	"id" : NumberLong("938518037757612032"),
+	"user" : {
+		"id" : NumberLong("792500939148099588"),
+		"description" : "",
+		"location" : "",
+		"name" : "Hottest Deals Online"
+	},
+	"geo" : null,
+	"created_at" : "Wed Dec 06 21:18:31 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40e68176465cdcb9b11798"),
+	"text" : "",
+	"id" : NumberLong("939359502335447041"),
+	"user" : {
+		"id" : NumberLong("819363977180381184"),
+		"description" : "Lyft Promo Code ZOOT for up to $50 Free #Lyft credit!",
+		"location" : "",
+		"name" : "Lyft Promo Code ZOOT"
+	},
+	"geo" : null,
+	"created_at" : "Sat Dec 09 05:02:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40c8b176465cdcb92c06b5"),
+	"text" : "",
+	"id" : NumberLong("935602325795811329"),
+	"user" : {
+		"id" : NumberLong("826270865176264706"),
+		"description" : "Lyft Coupon Code BEG gives new Lyft users up to $50 ride credit.",
+		"location" : "",
+		"name" : "LYFT Coupon Code BEG"
+	},
+	"geo" : null,
+	"created_at" : "Tue Nov 28 20:12:31 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40c8b176465cdcb92c06b1"),
+	"text" : "",
+	"id" : NumberLong("936998115088924672"),
+	"user" : {
+		"id" : NumberLong("792486715445407746"),
+		"description" : "",
+		"location" : "New York, NY",
+		"name" : "Deals Deals Deals"
+	},
+	"geo" : null,
+	"created_at" : "Sat Dec 02 16:38:53 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f087"),
+	"text" : "",
+	"id" : NumberLong("930628722088120320"),
+	"user" : {
+		"id" : NumberLong("792500939148099588"),
+		"description" : "",
+		"location" : "",
+		"name" : "Hottest Deals Online"
+	},
+	"geo" : null,
+	"created_at" : "Wed Nov 15 02:49:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f085"),
+	"text" : "",
+	"id" : NumberLong("931236227193430017"),
+	"user" : {
+		"id" : NumberLong("791798193688313857"),
+		"description" : "",
+		"location" : "",
+		"name" : "Promo Offers"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 16 19:03:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f083"),
+	"text" : "",
+	"id" : NumberLong("931301510847369217"),
+	"user" : {
+		"id" : NumberLong("792486715445407746"),
+		"description" : "",
+		"location" : "New York, NY",
+		"name" : "Deals Deals Deals"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 16 23:22:37 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f081"),
+	"text" : "",
+	"id" : NumberLong("931506795805323269"),
+	"user" : {
+		"id" : NumberLong("791806496480825345"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deal Cascade"
+	},
+	"geo" : null,
+	"created_at" : "Fri Nov 17 12:58:21 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f07f"),
+	"text" : "",
+	"id" : NumberLong("931574233771204608"),
+	"user" : {
+		"id" : NumberLong("822941564464926723"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deal-A-Minute"
+	},
+	"geo" : null,
+	"created_at" : "Fri Nov 17 17:26:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f07d"),
+	"text" : "",
+	"id" : NumberLong("931926322573701120"),
+	"user" : {
+		"id" : NumberLong("791795807695605764"),
+		"description" : "",
+		"location" : "",
+		"name" : "Hot Special Deals"
+	},
+	"geo" : null,
+	"created_at" : "Sat Nov 18 16:45:24 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f07b"),
+	"text" : "",
+	"id" : NumberLong("932858847827578880"),
+	"user" : {
+		"id" : NumberLong("826590275963334656"),
+		"description" : "",
+		"location" : "",
+		"name" : "The Deal Guys"
+	},
+	"geo" : null,
+	"created_at" : "Tue Nov 21 06:30:55 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f079"),
+	"text" : "",
+	"id" : NumberLong("933222395350884355"),
+	"user" : {
+		"id" : NumberLong("826580528916733953"),
+		"description" : "",
+		"location" : "",
+		"name" : "Best Online Offers"
+	},
+	"geo" : null,
+	"created_at" : "Wed Nov 22 06:35:32 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f077"),
+	"text" : "",
+	"id" : NumberLong("933303909342433280"),
+	"user" : {
+		"id" : NumberLong("791804729244446720"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deal Experts"
+	},
+	"geo" : null,
+	"created_at" : "Wed Nov 22 11:59:26 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f075"),
+	"text" : "",
+	"id" : NumberLong("933448342855700481"),
+	"user" : {
+		"id" : NumberLong("819363977180381184"),
+		"description" : "Lyft Promo Code ZOOT for up to $50 Free #Lyft credit!",
+		"location" : "",
+		"name" : "Lyft Promo Code ZOOT"
+	},
+	"geo" : null,
+	"created_at" : "Wed Nov 22 21:33:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f073"),
+	"text" : "",
+	"id" : NumberLong("933486329203183617"),
+	"user" : {
+		"id" : NumberLong("792386533231726592"),
+		"description" : "Lyft Promo Code LOOT gives you $50 Free Lyft Credit.",
+		"location" : "",
+		"name" : "Lyft Promo Code LOOT"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 23 00:04:18 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b0f976465cdcb9a2f071"),
+	"text" : "",
+	"id" : NumberLong("933588773136412672"),
+	"user" : {
+		"id" : NumberLong("791802942407970816"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deals All Day"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 23 06:51:23 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf745"),
+	"text" : "",
+	"id" : NumberLong("928319569386790914"),
+	"user" : {
+		"id" : NumberLong("792386533231726592"),
+		"description" : "Lyft Promo Code LOOT gives you $50 Free Lyft Credit.",
+		"location" : "",
+		"name" : "Lyft Promo Code LOOT"
+	},
+	"geo" : null,
+	"created_at" : "Wed Nov 08 17:53:27 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf73f"),
+	"text" : "",
+	"id" : NumberLong("928765201176023041"),
+	"user" : {
+		"id" : NumberLong("791805594537693185"),
+		"description" : "Lyft Promo Code LOOT for up to $50 Lyft credit.",
+		"location" : "",
+		"name" : "Lyft Promo Code"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 09 23:24:14 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf73d"),
+	"text" : "",
+	"id" : NumberLong("929213211857113089"),
+	"user" : {
+		"id" : NumberLong("819735453385551873"),
+		"description" : "",
+		"location" : "",
+		"name" : "Tweet-A-Deal"
+	},
+	"geo" : null,
+	"created_at" : "Sat Nov 11 05:04:28 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf73b"),
+	"text" : "",
+	"id" : NumberLong("929377257864482816"),
+	"user" : {
+		"id" : NumberLong("826588187170631681"),
+		"description" : "",
+		"location" : "",
+		"name" : "The Deal Project"
+	},
+	"geo" : null,
+	"created_at" : "Sat Nov 11 15:56:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf739"),
+	"text" : "",
+	"id" : NumberLong("929464154339074049"),
+	"user" : {
+		"id" : NumberLong("792486715445407746"),
+		"description" : "",
+		"location" : "New York, NY",
+		"name" : "Deals Deals Deals"
+	},
+	"geo" : null,
+	"created_at" : "Sat Nov 11 21:41:37 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4093fd76465cdcb9fdf737"),
+	"text" : "",
+	"id" : NumberLong("929750729375481857"),
+	"user" : {
+		"id" : NumberLong("791802942407970816"),
+		"description" : "",
+		"location" : "",
+		"name" : "Deals All Day"
+	},
+	"geo" : null,
+	"created_at" : "Sun Nov 12 16:40:22 +0000 2017"
+}

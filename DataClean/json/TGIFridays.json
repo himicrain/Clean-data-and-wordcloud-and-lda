@@ -1,0 +1,1481 @@
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c0de"),
+	"text" : "You ever get paid on an Friday and you decide to watch Friday on an Friday. Then get hungry and be like I'm goin to T.G.I. Friday's......",
+	"id" : NumberLong("868147806816661504"),
+	"user" : {
+		"id" : 416650312,
+		"description" : "8-7-10 #BLM Young, Gifted And Black. Just trying to be great",
+		"location" : "",
+		"name" : "Kage"
+	},
+	"geo" : null,
+	"created_at" : "Fri May 26 16:52:21 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed70576465cdcb9806209"),
+	"text" : "T.G.I. Friday's on a Friday",
+	"id" : NumberLong("863208108650266624"),
+	"user" : {
+		"id" : 35549550,
+		"description" : "Level Up",
+		"location" : "Jacksonville, Florida ",
+		"name" : "King™"
+	},
+	"geo" : null,
+	"created_at" : "Sat May 13 01:43:45 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef05e76465cdcb90b32be"),
+	"text" : "It's always Friday on T.G.I. Friday's #wineitup @ TGI Fridays https://t.co/rqY5O0SZ2V",
+	"id" : NumberLong("855622151289917440"),
+	"user" : {
+		"id" : 147716694,
+		"description" : "Musico loco, ciego, poeta y otro poco.",
+		"location" : "Río Bravo, Tamaulipas",
+		"name" : "MANUEL RODRIGUEZ"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			37.98405,
+			-87.49317
+		]
+	},
+	"created_at" : "Sat Apr 22 03:19:52 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c1ac"),
+	"text" : "if i owned T.G.I. friday's, id close it on everyday but friday. really make it fridays special",
+	"id" : NumberLong("867754702037037057"),
+	"user" : {
+		"id" : 628735497,
+		"description" : "pull up like awoah 🌊🌊",
+		"location" : "Cedar Grove, NJ",
+		"name" : "william:)"
+	},
+	"geo" : null,
+	"created_at" : "Thu May 25 14:50:17 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c0da"),
+	"text" : "Then you get waitress number that works at T.G.I. Friday's and she text you that she off next Friday... damn what a Friday",
+	"id" : NumberLong("868148188158537728"),
+	"user" : {
+		"id" : 416650312,
+		"description" : "8-7-10 #BLM Young, Gifted And Black. Just trying to be great",
+		"location" : "",
+		"name" : "Kage"
+	},
+	"geo" : null,
+	"created_at" : "Fri May 26 16:53:52 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec53976465cdcb920daec"),
+	"text" : "Went to T.G.I. Friday's on a Friday, which happened to be Good Friday. https://t.co/IxlEvXXFHl",
+	"id" : NumberLong("853087980814258176"),
+	"user" : {
+		"id" : NumberLong("2298978848"),
+		"description" : "BRM",
+		"location" : "",
+		"name" : "🖤"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 15 03:29:58 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ea3da76465cdcb9729deb"),
+	"text" : "#friday @ #fridays #afternoondinner #family time @ T.G.I. Friday's https://t.co/5uIHJOEnI6",
+	"id" : NumberLong("842872783176720384"),
+	"user" : {
+		"id" : 138278818,
+		"description" : "!Rep. Dom @ Santo Domingo ;instagram: edwinperaltasd  #ComeHierro Como Estilo D Vida/ Instagram: edwinperaltasd",
+		"location" : "Santo Domingo, Rep. Dom",
+		"name" : "Edwin Peralta"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			18.46929841,
+			-69.93935679
+		]
+	},
+	"created_at" : "Fri Mar 17 22:58:25 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ea3d976465cdcb9729b5f"),
+	"text" : "Here its always Friday...\nOr not ? ☇ #friday's #kolonaki #tgifridays @ T.G.I. Friday's Kolonaki https://t.co/963EE4MToj",
+	"id" : NumberLong("845049325742952448"),
+	"user" : {
+		"id" : 276529644,
+		"description" : "Aries ♈️Singer/DINAMISS.Musician/Pianist.Administration Finance of Tourism.Candylover.Check it out on Youtube : EleniDina",
+		"location" : "Greece",
+		"name" : "elenidina"
+	},
+	"geo" : null,
+	"created_at" : "Thu Mar 23 23:07:14 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb5e76465cdcb94d07b2"),
+	"text" : "Fridays on a Friday. 👌🏻 Happy 20 peeps! @ T.G.I. Friday's / TGIF https://t.co/e3xuhmKWt7",
+	"id" : NumberLong("921369899569680384"),
+	"user" : {
+		"id" : 33451142,
+		"description" : "Marian '08. Bedan '12 :) Quezon City's Vigilante. IG: @mykolbenedict",
+		"location" : "",
+		"name" : "Michael Banaag"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.551593,
+			121.025278
+		]
+	},
+	"created_at" : "Fri Oct 20 13:37:56 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec53976465cdcb920da98"),
+	"text" : "RT @its__caitlyn: Went to T.G.I. Friday's on a Friday, which happened to be Good Friday. https://t.co/IxlEvXXFHl",
+	"id" : NumberLong("853287955477274625"),
+	"user" : {
+		"id" : 237023284,
+		"description" : "caitlyn 👅❤",
+		"location" : "send me this",
+		"name" : "🙊"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 15 16:44:36 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5713"),
+	"text" : "Yo anybody wanna go to T.G.I. Friday's on Friday for unlimited apps I'm trying to get gross Friday night",
+	"id" : NumberLong("892897314729320449"),
+	"user" : {
+		"id" : NumberLong("760902319148044288"),
+		"description" : "heaven help us, we're on our own. II.VIII.MMXV.",
+		"location" : "Michigan, USA",
+		"name" : "Alan"
+	},
+	"geo" : null,
+	"created_at" : "Wed Aug 02 23:58:03 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef97d76465cdcb942c1e1"),
+	"text" : "It ain't friday yet. But here it's  always Friday!! (@ T.G.I. Friday's in Makati City, Metro Manila) https://t.co/CH4jf4tnzr",
+	"id" : NumberLong("908258532637765632"),
+	"user" : {
+		"id" : NumberLong("3562633453"),
+		"description" : "Oneself not found.",
+		"location" : "Manila City, National Capital ",
+		"name" : "Bryan Levious"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.55222354,
+			121.02158208
+		]
+	},
+	"created_at" : "Thu Sep 14 09:18:03 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f1fa876465cdcb9f56d81"),
+	"text" : "T.G.I. friday's waitress: hi how can i help you? \nme, at a my local T.G.I. friday's: tbh dude, thank fucking god its friday",
+	"id" : NumberLong("881379489351176192"),
+	"user" : {
+		"id" : 628735497,
+		"description" : "pull up like awoah 🌊🌊",
+		"location" : "Cedar Grove, NJ",
+		"name" : "william:)"
+	},
+	"geo" : null,
+	"created_at" : "Sun Jul 02 05:10:20 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f76b876465cdcb960e6f0"),
+	"text" : "T.G.I. Friday's on Friday's is seriously so poppin😵😵",
+	"id" : NumberLong("898706976187850753"),
+	"user" : {
+		"id" : 625214970,
+		"description" : "Leo♌️ ~Nothin but good vibes and opened minds~ #blessed #woke",
+		"location" : "",
+		"name" : "Gina Capaccio"
+	},
+	"geo" : null,
+	"created_at" : "Sat Aug 19 00:43:34 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c0a2"),
+	"text" : "Eating T.G.I. Friday's on a Friday 😂😂😂",
+	"id" : NumberLong("868185187276005381"),
+	"user" : {
+		"id" : 1220759520,
+		"description" : "Management: Ethan.wigfield@gmail.com\nBookings: jon@circletalentagency.com\nSnapchat/Instagram: SKELLISM",
+		"location" : "North Hollywood, CA",
+		"name" : "Skellism"
+	},
+	"geo" : null,
+	"created_at" : "Fri May 26 19:20:53 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed12976465cdcb95e037d"),
+	"text" : "T.G.I. Friday's on Friday I think so 😋😋",
+	"id" : NumberLong("859930209847562240"),
+	"user" : {
+		"id" : 493953462,
+		"description" : "Minding my business as you should... 💯 #FreeDave #FreeCasino",
+		"location" : "",
+		"name" : "Tanijah F ❤️"
+	},
+	"geo" : null,
+	"created_at" : "Thu May 04 00:38:33 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec40176465cdcb91ac3ee"),
+	"text" : "T.G.I. Friday's -  TGI Fridays Potato Skins Cheddar and Bacon $30.11 CS TGI Fridays Bites Crunchy... https://t.co/xYqSrlWsz4\n #TGIFriday's",
+	"id" : NumberLong("853181947941720064"),
+	"user" : {
+		"id" : 973852566,
+		"description" : "Big Family Snacks offers bulk snacks and meals, packed by the case, enough for a big family! Plus you pay affordable case pricing. Order from home or office...",
+		"location" : "",
+		"name" : "BigFamilySnacks"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 15 09:43:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec3fb76465cdcb91a7295"),
+	"text" : "T.G.I. Friday's -  TGI Fridays Potato Skins Cheddar and Bacon $30.11 CS TGI Fridays Bites Crunchy... https://t.co/xYqSrlWsz4\n #TGIFriday's",
+	"id" : NumberLong("854815702980677633"),
+	"user" : {
+		"id" : 973852566,
+		"description" : "Big Family Snacks offers bulk snacks and meals, packed by the case, enough for a big family! Plus you pay affordable case pricing. Order from home or office...",
+		"location" : "",
+		"name" : "BigFamilySnacks"
+	},
+	"geo" : null,
+	"created_at" : "Wed Apr 19 21:55:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3eae0076465cdcb9b43629"),
+	"text" : "T.G.I. Friday's -  TGI Fridays Potato Skins Cheddar and Bacon $30.11 CS TGI Fridays Bites Crunchy... https://t.co/xYqSrlWsz4\n #TGIFriday's",
+	"id" : NumberLong("844926457742868482"),
+	"user" : {
+		"id" : 973852566,
+		"description" : "Big Family Snacks offers bulk snacks and meals, packed by the case, enough for a big family! Plus you pay affordable case pricing. Order from home or office...",
+		"location" : "",
+		"name" : "BigFamilySnacks"
+	},
+	"geo" : null,
+	"created_at" : "Thu Mar 23 14:59:00 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3eadfc76465cdcb9b42ccd"),
+	"text" : "T.G.I. Friday's -  TGI Fridays Potato Skins Cheddar and Bacon $30.11 CS TGI Fridays Bites Crunchy... https://t.co/xYqSrlWsz4\n #TGIFriday's",
+	"id" : NumberLong("846237960882327552"),
+	"user" : {
+		"id" : 973852566,
+		"description" : "Big Family Snacks offers bulk snacks and meals, packed by the case, enough for a big family! Plus you pay affordable case pricing. Order from home or office...",
+		"location" : "",
+		"name" : "BigFamilySnacks"
+	},
+	"geo" : null,
+	"created_at" : "Mon Mar 27 05:50:26 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec53976465cdcb920da66"),
+	"text" : "#9: T.G.I Friday's Gift Card $50: T.G.I Friday's Gift Card $50 by T.G.I. Friday's (130) Buy… https://t.co/gSxUOSjwGP #Restaurants #Gift",
+	"id" : NumberLong("853367860122460160"),
+	"user" : {
+		"id" : NumberLong("772398859758792704"),
+		"description" : "Online shopping site for access to a large selection of restaurants gift cards. Find a wide variety of gift card designs.",
+		"location" : "Worldwide",
+		"name" : "Restaurants GiftCard"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 15 22:02:07 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4113c976465cdcb947aeea"),
+	"text" : "t.g.i. friday's on any day but friday is a liminal space",
+	"id" : NumberLong("939989842225532930"),
+	"user" : {
+		"id" : 130701778,
+		"description" : "allie. drawererer | inquiries: brocre8 [at] gmail dot com | https://t.co/p5Ok8moM8u",
+		"location" : "margarita zone",
+		"name" : "nut boy, keeper of the nuts"
+	},
+	"geo" : null,
+	"created_at" : "Sun Dec 10 22:46:57 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5787"),
+	"text" : "this is the loudest t.g.i. friday's i've ever been in and it's not even friday ???",
+	"id" : NumberLong("892542262961479681"),
+	"user" : {
+		"id" : 381831717,
+		"description" : "just take a gander",
+		"location" : "Houston, TX",
+		"name" : "🌬Mickayy"
+	},
+	"geo" : null,
+	"created_at" : "Wed Aug 02 00:27:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f285c76465cdcb91a21a8"),
+	"text" : "As a kid , I thought T.G.I. Friday's was ONLY open on fridays",
+	"id" : NumberLong("882848931821912068"),
+	"user" : {
+		"id" : 1075818284,
+		"description" : "FaithfulYoungMen™ | #FUCKCANCER | JES 💛 | Army",
+		"location" : "Anchorage, AK",
+		"name" : "souljaboy"
+	},
+	"geo" : null,
+	"created_at" : "Thu Jul 06 06:29:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed12976465cdcb95e05a9"),
+	"text" : "I didn't know T.G.I. Friday's  had DJs on Thursday's and Friday's",
+	"id" : NumberLong("858150332991512576"),
+	"user" : {
+		"id" : 1906369135,
+		"description" : "|SJ16 CNU20⚓️| Thick Thighs X Thin Patience 40",
+		"location" : "",
+		"name" : "April✨"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 29 02:45:57 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ea3d876465cdcb9729a15"),
+	"text" : "@mikey_mouuse he was screaming in t.g.i. friday's, on a damn friday",
+	"id" : NumberLong("845456049079566336"),
+	"user" : {
+		"id" : NumberLong("2821843180"),
+		"description" : "Carpe noctem",
+		"location" : "",
+		"name" : "Kurt"
+	},
+	"geo" : null,
+	"created_at" : "Sat Mar 25 02:03:24 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb5e76465cdcb94d072e"),
+	"text" : "Did you know that you're legally not allowed to go to T.G.I. Friday's if it's not a Friday?",
+	"id" : NumberLong("921495430147530753"),
+	"user" : {
+		"id" : 1350591572,
+		"description" : "\"a slut with a heart of gold\"",
+		"location" : "Narnia",
+		"name" : "beaucoup de spook"
+	},
+	"geo" : null,
+	"created_at" : "Fri Oct 20 21:56:45 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fafba76465cdcb984c50f"),
+	"text" : "Tryna go to T.G.I. Friday's after first Friday 😭🙌🏾",
+	"id" : NumberLong("914913458625249280"),
+	"user" : {
+		"id" : 1260912852,
+		"description" : "#SkeetWorld❤️",
+		"location" : "Oakland cali baby",
+		"name" : "lilBaby💙"
+	},
+	"geo" : null,
+	"created_at" : "Mon Oct 02 18:02:21 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f866376465cdcb9b5ad75"),
+	"text" : "Guys did u know T.G.I. friday's is not only open on fridays..?",
+	"id" : NumberLong("903025665544519681"),
+	"user" : {
+		"id" : NumberLong("2765902809"),
+		"description" : "I Hope That You Find The Storm You Were Chasing Snapchat: mwillman43",
+		"location" : "Fairport, NY",
+		"name" : "MacKenzie Willman"
+	},
+	"geo" : null,
+	"created_at" : "Wed Aug 30 22:44:30 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f553176465cdcb9d6055a"),
+	"text" : "@TGIFridays is T.G.I. Friday's only open on friday? asking for a friend.",
+	"id" : NumberLong("891122008502788096"),
+	"user" : {
+		"id" : NumberLong("829517022241374210"),
+		"description" : "so excuse us, while we sing to the sky",
+		"location" : "|-/",
+		"name" : "giø⊬"
+	},
+	"geo" : null,
+	"created_at" : "Sat Jul 29 02:23:37 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c062"),
+	"text" : "RT @Skellism: Eating T.G.I. Friday's on a Friday 😂😂😂",
+	"id" : NumberLong("868212049330962432"),
+	"user" : {
+		"id" : 97868038,
+		"description" : "Motivational Speaker",
+		"location" : "Snapchat SiscoSkellism",
+		"name" : "SISCOSKELLISM"
+	},
+	"geo" : null,
+	"created_at" : "Fri May 26 21:07:37 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebfaa76465cdcb900f17f"),
+	"text" : "Freaky Friday sponsored by T.G.I. Friday's #BetterFilmSponsors #thanksDevonIrelanforinspiration",
+	"id" : NumberLong("852300666290786304"),
+	"user" : {
+		"id" : 95084805,
+		"description" : "Comedy writer, improvisor, actress. Comedy songs available on iTunes. Contributor @Reductress.",
+		"location" : "",
+		"name" : "Marian Rosin"
+	},
+	"geo" : null,
+	"created_at" : "Wed Apr 12 23:21:28 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3e926f76465cdcb91301ed"),
+	"text" : "But how come I used to think that T.G.I. Friday's was only open on Fridays",
+	"id" : NumberLong("837815786047590400"),
+	"user" : {
+		"id" : NumberLong("3051472242"),
+		"description" : "don't forget the happy thoughts",
+		"location" : "",
+		"name" : "valerie"
+	},
+	"geo" : null,
+	"created_at" : "Sat Mar 04 00:03:43 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a4113c976465cdcb947aee6"),
+	"text" : "RT @lilyloo: t.g.i. friday's on any day but friday is a liminal space",
+	"id" : NumberLong("939991163381063680"),
+	"user" : {
+		"id" : 9677652,
+		"description" : "KAY-tee. 31. she/her. I cosplay, robots make me emotional, and I have to point out every dog I see. I. love. bees. 🐝💗💜💙✨",
+		"location" : "San Diego, CA",
+		"name" : "keightee"
+	},
+	"geo" : null,
+	"created_at" : "Sun Dec 10 22:52:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb5e76465cdcb94d087f"),
+	"text" : "alli: *walking in T.G.I. friday's* in here it's always friday..well out here it's wednesday.",
+	"id" : NumberLong("920733676039737344"),
+	"user" : {
+		"id" : NumberLong("2292114471"),
+		"description" : "love himself loves me",
+		"location" : "not pcb",
+		"name" : "Bella Grace"
+	},
+	"geo" : null,
+	"created_at" : "Wed Oct 18 19:29:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fafb976465cdcb984c17f"),
+	"text" : "¿Sabían que \"T.G.I. Friday's\" significa: \"Thank God! It's Friday!\"?",
+	"id" : NumberLong("917194252324605953"),
+	"user" : {
+		"id" : 475232750,
+		"description" : "Mi vida cambió un 19 de noviembre del 2011 y un 21 de enero del 2016.",
+		"location" : "",
+		"name" : "María Pía"
+	},
+	"geo" : null,
+	"created_at" : "Mon Oct 09 01:05:25 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5858"),
+	"text" : "T.G.I. Friday's Alexandria &gt; T.G.I. Friday's in manassas",
+	"id" : NumberLong("891847977865801731"),
+	"user" : {
+		"id" : 224851435,
+		"description" : "",
+		"location" : "NOVA/D.C.",
+		"name" : "Esme"
+	},
+	"geo" : null,
+	"created_at" : "Mon Jul 31 02:28:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f285c76465cdcb91a213c"),
+	"text" : "Didn't know T.G.I. Friday's mean thang god it's Friday 😱",
+	"id" : NumberLong("883190699042144256"),
+	"user" : {
+		"id" : 487111621,
+		"description" : "what can you expect niggas even hated on Jesus | 6'3",
+		"location" : "Gooon$ide",
+		"name" : "🅱️ig homie"
+	},
+	"geo" : null,
+	"created_at" : "Fri Jul 07 05:07:26 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f195676465cdcb9d5ee2a"),
+	"text" : "I wish somebody would take me to T.G.I. Friday's this Friday 😩 I'll be so happy",
+	"id" : NumberLong("877697190902116352"),
+	"user" : {
+		"id" : NumberLong("3223574570"),
+		"description" : "Tsu21💙😝",
+		"location" : "Memphis, TN",
+		"name" : "Michelle 💕"
+	},
+	"geo" : null,
+	"created_at" : "Thu Jun 22 01:18:11 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ee95576465cdcb9f06cdb"),
+	"text" : "\"I go to T.G.I. Friday's on Tuesday and Ruby Tuesday on Friday's.\" - Mula",
+	"id" : NumberLong("872580348768645122"),
+	"user" : {
+		"id" : NumberLong("863579968151879686"),
+		"description" : "\"Well guess what, Trump's in office, and he's gonna fuck your shit up\"",
+		"location" : "",
+		"name" : "Dumb Shit We Say"
+	},
+	"geo" : null,
+	"created_at" : "Wed Jun 07 22:25:41 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcfa76465cdcb9a0c20a"),
+	"text" : "i'm so happy that i know for a fact that some people only go to T.G.I. Friday's on fridays",
+	"id" : NumberLong("867528473950117890"),
+	"user" : {
+		"id" : NumberLong("3313865888"),
+		"description" : "",
+		"location" : "",
+		"name" : "nina"
+	},
+	"geo" : null,
+	"created_at" : "Wed May 24 23:51:20 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f895b76465cdcb9c3f495"),
+	"text" : "Celebrando fridays @ T.G.I. Friday's Nicaragua https://t.co/v1OBQqWfaY",
+	"id" : NumberLong("904865126674825216"),
+	"user" : {
+		"id" : 48773568,
+		"description" : "",
+		"location" : "Nicaragua",
+		"name" : "Claudia Muñoz"
+	},
+	"geo" : null,
+	"created_at" : "Tue Sep 05 00:33:52 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f866376465cdcb9b5acaf"),
+	"text" : "#beerlife at Friday's! @ T.G.I. Friday's 横浜西口店 https://t.co/2gExRV6jdO",
+	"id" : NumberLong("903591817525968896"),
+	"user" : {
+		"id" : 584444772,
+		"description" : "Illustration,Animation and something stuff. Mail →jpnyenootaki▽https://t.co/N8GNSmAmm4",
+		"location" : " ¥€N øøT⊿ |∠I",
+		"name" : "大瀧円-YenOotaki"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			35.46705364,
+			139.6209381
+		]
+	},
+	"created_at" : "Fri Sep 01 12:14:11 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a58c9"),
+	"text" : "FRIDAYS MUSHROOMS @ T.G.I. FRIDAY'S 池袋店 https://t.co/6u7GZZx995",
+	"id" : NumberLong("891494008450678784"),
+	"user" : {
+		"id" : 132140802,
+		"description" : "Sorry, but almost all of my tweets are written in Japanese. YouTube: http://t.co/K2u8psKJFb",
+		"location" : "",
+		"name" : "INO:-P"
+	},
+	"geo" : null,
+	"created_at" : "Sun Jul 30 03:01:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a574d"),
+	"text" : "Friday's on a Wednesday @ T.G.I. Friday's Alabang https://t.co/CH6c0blkY6",
+	"id" : NumberLong("892737592583536642"),
+	"user" : {
+		"id" : 74707471,
+		"description" : "Bigotilyo",
+		"location" : "",
+		"name" : "Zara  Cecilio"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.42301994,
+			121.02933376
+		]
+	},
+	"created_at" : "Wed Aug 02 13:23:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5385"),
+	"text" : "Fridays 🍴😽 (@ T.G.I. Friday's in Lima) https://t.co/zMHRJ0ldH9",
+	"id" : NumberLong("893598392307396608"),
+	"user" : {
+		"id" : 177718914,
+		"description" : "La vida es muy buena, disfrutala que sólo se vive una vez. Gatos, Raves & música TECHNO!",
+		"location" : "Lima, La Indomable - Perú ",
+		"name" : "Gatonator"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-12.11073589,
+			-77.03735054
+		]
+	},
+	"created_at" : "Fri Aug 04 22:23:53 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f1fa876465cdcb9f56d08"),
+	"text" : "FRIDAYS MUSHROOMS. @ T.G.I. FRIDAY'S 池袋店 https://t.co/QgdV7ErmlL",
+	"id" : NumberLong("881731064502333441"),
+	"user" : {
+		"id" : 132140802,
+		"description" : "Sorry, but almost all of my tweets are written in Japanese. YouTube: http://t.co/K2u8psKJFb",
+		"location" : "",
+		"name" : "INO:-P"
+	},
+	"geo" : null,
+	"created_at" : "Mon Jul 03 04:27:22 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed70576465cdcb9806454"),
+	"text" : "Monday on fridays @ T.G.I. Friday's Ecuador https://t.co/lGEY2BBBxn",
+	"id" : NumberLong("862081326303891456"),
+	"user" : {
+		"id" : 474042358,
+		"description" : "FILANTROPA. Solidaria de Izquierda, Socialista y Revolucionaria... \n\nSer feliz es vivir cada oportunidad buena y mala q la vida te da...",
+		"location" : "Cumbaya",
+		"name" : "Veronique Ordoñez"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-0.1981768,
+			-78.4340999
+		]
+	},
+	"created_at" : "Tue May 09 23:06:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec53976465cdcb920d9a0"),
+	"text" : "@kaitspaide having a T.G.I. Friday's shirt means you've been to T.G.I Friday's and that's unacceptable",
+	"id" : NumberLong("853688192855416832"),
+	"user" : {
+		"id" : NumberLong("2701679421"),
+		"description" : "arbys hate account",
+		"location" : "htx",
+		"name" : "in da alley"
+	},
+	"geo" : null,
+	"created_at" : "Sun Apr 16 19:15:00 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebfac76465cdcb900f93a"),
+	"text" : "A friend of mine just said to me that they thought T.G.I. Friday's was only open on Fridays",
+	"id" : NumberLong("849884249209622528"),
+	"user" : {
+		"id" : NumberLong("2704256574"),
+		"description" : "⭐️Sci-Fi Disco Musical Wannabe Star ⭐️",
+		"location" : "",
+		"name" : "☀️Brooke ☀️"
+	},
+	"geo" : null,
+	"created_at" : "Thu Apr 06 07:19:29 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ea3da76465cdcb9729d61"),
+	"text" : "FRIDAYS MARGARITA❤ @ T.G.I. FRIDAY'S 池袋店 https://t.co/dOYWVmI0Mc",
+	"id" : NumberLong("843314206694916096"),
+	"user" : {
+		"id" : 132140802,
+		"description" : "Sorry, but almost all of my tweets are written in Japanese. YouTube: http://t.co/K2u8psKJFb",
+		"location" : "",
+		"name" : "INO:-P"
+	},
+	"geo" : null,
+	"created_at" : "Sun Mar 19 04:12:29 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40b15276465cdcb9a5a5df"),
+	"text" : "In here, It's always Friday 😉 @ T.G.I. Friday's / TGIF https://t.co/HMpzmbnmby",
+	"id" : NumberLong("934040799402254336"),
+	"user" : {
+		"id" : NumberLong("2316287414"),
+		"description" : "Be a person who leaves a mark, not a scar.",
+		"location" : "",
+		"name" : "Kristine S. Lagao"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.824596,
+			120.280622
+		]
+	},
+	"created_at" : "Fri Nov 24 12:47:34 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fc42f76465cdcb9eb8744"),
+	"text" : "Friday the 13th @ TGIF @ T.G.I. Friday's / TGIF https://t.co/64xz9Cw3PH",
+	"id" : NumberLong("918834406986539009"),
+	"user" : {
+		"id" : 160189590,
+		"description" : "MECHANICAL ENGINEER 👷🏻",
+		"location" : "BTG, PH",
+		"name" : "ENGR. 47"
+	},
+	"geo" : null,
+	"created_at" : "Fri Oct 13 13:42:48 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fafb976465cdcb984c133"),
+	"text" : "RT @MapiAlmeida: ¿Sabían que \"T.G.I. Friday's\" significa: \"Thank God! It's Friday!\"?",
+	"id" : NumberLong("917398030382518272"),
+	"user" : {
+		"id" : 174083887,
+		"description" : "Con todo menos miedo men",
+		"location" : "",
+		"name" : "Alejandra Sevillano"
+	},
+	"geo" : null,
+	"created_at" : "Mon Oct 09 14:35:09 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f895b76465cdcb9c3f195"),
+	"text" : "Saturday at Fridays 💙 @ T.G.I. Friday's Alabang https://t.co/kt6nhyGCJV",
+	"id" : NumberLong("906475255430045696"),
+	"user" : {
+		"id" : 51945322,
+		"description" : "good vibes :)",
+		"location" : "The Metro",
+		"name" : "Bernice S. Garcia"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.42301994,
+			121.02933376
+		]
+	},
+	"created_at" : "Sat Sep 09 11:11:57 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f816476465cdcb9a00abb"),
+	"text" : "Happy friday! 🤘#TGIF @ T.G.I. Friday's https://t.co/PbxFjU92O0",
+	"id" : NumberLong("901065329803116545"),
+	"user" : {
+		"id" : 153011198,
+		"description" : "M A R K E T I N G",
+		"location" : "",
+		"name" : "Rustine Garcia"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			15.169703,
+			120.59062
+		]
+	},
+	"created_at" : "Fri Aug 25 12:54:50 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5847"),
+	"text" : "RT @PROJECTESME: T.G.I. Friday's Alexandria &gt; T.G.I. Friday's in manassas",
+	"id" : NumberLong("891898777732345856"),
+	"user" : {
+		"id" : 100833534,
+		"description" : "Wasnt going to be a Dj, but these niggas not doing it right! That's too much sauce✨🍝 EMAIL ME: BookDjLL@gmail.com SOUNDCLOUD/INSTAGRAM/SNAPCHAT @ DjLalahLust",
+		"location" : "DC MARYLAND VIRGINIA",
+		"name" : "Lalah Lust🦄"
+	},
+	"geo" : null,
+	"created_at" : "Mon Jul 31 05:50:13 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5843"),
+	"text" : "RT @PROJECTESME: T.G.I. Friday's Alexandria &gt; T.G.I. Friday's in manassas",
+	"id" : NumberLong("891922084842151936"),
+	"user" : {
+		"id" : 562625943,
+		"description" : "",
+		"location" : "I am where im at ",
+		"name" : "Wash"
+	},
+	"geo" : null,
+	"created_at" : "Mon Jul 31 07:22:50 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef05e76465cdcb90b30d2"),
+	"text" : "Mentions for T.G.I. Friday's:  - RT @_notahobbit had the best mozzarella cheese dicks at Fridays",
+	"id" : NumberLong("857083576893882369"),
+	"user" : {
+		"id" : 97586316,
+		"description" : "Real-time local buzz for places, events and local deals being tweeted about right now in Columbia!",
+		"location" : "Columbia",
+		"name" : "Columbia Places"
+	},
+	"geo" : null,
+	"created_at" : "Wed Apr 26 04:07:03 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef05e76465cdcb90b3006"),
+	"text" : "Friday's on wednesday 🤔 (@ T.G.I. Friday's in Lima) https://t.co/7R9f4VRkhd",
+	"id" : NumberLong("857433858928762880"),
+	"user" : {
+		"id" : 125521535,
+		"description" : "Enfant terrible.",
+		"location" : "Lima, Perú",
+		"name" : "Felipe Barranzuela"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-12.11073589,
+			-77.03735054
+		]
+	},
+	"created_at" : "Thu Apr 27 03:18:56 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed12976465cdcb95e020f"),
+	"text" : "Drinks!! #Friday #Relax (@ T.G.I. Friday's in Lima) https://t.co/ublAY2uVrq",
+	"id" : NumberLong("860695568057864193"),
+	"user" : {
+		"id" : 326786732,
+		"description" : "Amante de la marinera norteña,el pisco,la guitarra y el cajon. Sensibilidad pero jamás debilidad. Los pies en el suelo, la vista en el cielo.",
+		"location" : "Lima,Peru",
+		"name" : "Juana Alexa Vi-Vas"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-12.11073589,
+			-77.03735054
+		]
+	},
+	"created_at" : "Sat May 06 03:19:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ec53976465cdcb920d7aa"),
+	"text" : "It's almost Friday 🎈🎉 (@ T.G.I. Friday's in Lima) https://t.co/1KXX9Ho8Kv",
+	"id" : NumberLong("855256583663648769"),
+	"user" : {
+		"id" : 133360815,
+		"description" : "Siempre llega ese momento en el que tus demonios te piden un infierno más grande...",
+		"location" : "Lima",
+		"name" : "Ximena"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-12.09049467,
+			-77.05204734
+		]
+	},
+	"created_at" : "Fri Apr 21 03:07:14 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3eaf5b76465cdcb9bb4123"),
+	"text" : "Why didn't someone tell me T.G.I. Friday's gets lowkey ratchet Friday nights 😂",
+	"id" : NumberLong("847996035024670720"),
+	"user" : {
+		"id" : 221187555,
+		"description" : "Ri'e (Ree-A). ECU Alumna. Gemini. 24.",
+		"location" : "",
+		"name" : "Ree-A"
+	},
+	"geo" : null,
+	"created_at" : "Sat Apr 01 02:16:24 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3e926f76465cdcb912fb73"),
+	"text" : "Grandma - \" we don't have an Always Friday, huh? \nMe- \"you mean T.G.I. Friday's?\"\n*Grandma rewinds commercial*",
+	"id" : NumberLong("840785779676848128"),
+	"user" : {
+		"id" : NumberLong("3409324994"),
+		"description" : "Punk. Punk. Punk rocker.",
+		"location" : "El Paso, TX",
+		"name" : "Anissa Loya"
+	},
+	"geo" : null,
+	"created_at" : "Sun Mar 12 04:45:25 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40c8f976465cdcb92d5da1"),
+	"text" : "TJ.FRIDAYS\"♡ (@ T.G.I. Friday's in Kuwait, Hawalli Governorate) https://t.co/qPMVFXbFWO",
+	"id" : NumberLong("936325248315740165"),
+	"user" : {
+		"id" : NumberLong("930805591584530435"),
+		"description" : "‏‏‏‏‏‏‏‏‏\nي رب حقق لي ما تمنيت  . ♡",
+		"location" : "مدينة جابر الأحمد, دولة الكويت",
+		"name" : "al3skar♡"
+	},
+	"geo" : null,
+	"created_at" : "Thu Nov 30 20:05:09 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f76b876465cdcb960e68c"),
+	"text" : "@DashieXP Threep! Take TINA to T.G.I. Friday's. Congratulations you now have Friday the ThirTINA!! #dashiemaker",
+	"id" : NumberLong("898983683234910208"),
+	"user" : {
+		"id" : NumberLong("777666495799328772"),
+		"description" : "",
+		"location" : "Chatham, Chicago",
+		"name" : "Mistah J"
+	},
+	"geo" : null,
+	"created_at" : "Sat Aug 19 19:03:07 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a55c9"),
+	"text" : "#BuenViernes \"Gracias a Dios es Viernes\" \nL̸u̸n̸e̸s̸M̸a̸r̸t̸e̸s̸M̸i̸ér̸c̸o̸l̸e̸s̸J̸u̸e̸v̸e̸s̸VIERNES\nT.G.I. Friday's “Thank God It's Friday”",
+	"id" : NumberLong("893449352563306496"),
+	"user" : {
+		"id" : 1507222099,
+		"description" : "Esta cuenta Twitter cambió su formato ante el vil secuestro del Poder Constituyente por parte del Psuv y el DESgobierno Venezolano\nNO A LA PROSTITUYENTE MADURO",
+		"location" : "Venezuela",
+		"name" : "NO al Prostituyente"
+	},
+	"geo" : null,
+	"created_at" : "Fri Aug 04 12:31:39 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a551d"),
+	"text" : "t.g.i. friday's the restaurant is lightweight mediocre tho.. that's the only kind of friday i don't really fux with tbh",
+	"id" : NumberLong("893476193781108738"),
+	"user" : {
+		"id" : 299974793,
+		"description" : "⠀⠀⠀⠀⠀⠀⠀⠀⠀❥☯ૐ☮☼☻✯ ⠀⠀⠀⠀⠀⠀⠀⠀⠀sc•kirsten9407",
+		"location" : "Duluth, MN",
+		"name" : "Kirsten W."
+	},
+	"geo" : null,
+	"created_at" : "Fri Aug 04 14:18:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a52e0"),
+	"text" : "Friday's X Lany 💗 @ T.G.I. Friday's / TGIF https://t.co/Cscq3rrt8w",
+	"id" : NumberLong("893738062521303040"),
+	"user" : {
+		"id" : 165064576,
+		"description" : "Follow a #Libra. You will end up somewhere interesting. 24. Thomasian Alumna. Management Analyst @ Megaworld Corporation.",
+		"location" : "Philippines",
+		"name" : "Paola Mher Quitalig"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.551593,
+			121.025278
+		]
+	},
+	"created_at" : "Sat Aug 05 07:38:53 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f4b2776465cdcb9af08f3"),
+	"text" : "When T.G.I. Friday's has $10 endless apps but the T.G.I. Friday's got shut down 😫",
+	"id" : NumberLong("888910344307048448"),
+	"user" : {
+		"id" : NumberLong("2760018383"),
+		"description" : "",
+		"location" : "",
+		"name" : "ashlee"
+	},
+	"geo" : null,
+	"created_at" : "Sat Jul 22 23:55:15 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb9610754"),
+	"text" : "T.G.I. Fridays コブサラダ @ T.G.I. Friday's 品川 https://t.co/gLsu7zltTw",
+	"id" : NumberLong("884910494494208000"),
+	"user" : {
+		"id" : 238568041,
+		"description" : "Animal,Fashion,Disney,LA,Hawaii",
+		"location" : "Tokyo",
+		"name" : "Rascal Mike"
+	},
+	"geo" : null,
+	"created_at" : "Tue Jul 11 23:01:17 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb9610744"),
+	"text" : "T.G.I. Fridays シーフードスパゲティー @ T.G.I. Friday's 品川 https://t.co/z7dH84yBgm",
+	"id" : NumberLong("884973989021458434"),
+	"user" : {
+		"id" : 238568041,
+		"description" : "Animal,Fashion,Disney,LA,Hawaii",
+		"location" : "Tokyo",
+		"name" : "Rascal Mike"
+	},
+	"geo" : null,
+	"created_at" : "Wed Jul 12 03:13:35 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb9610732"),
+	"text" : "T.G.I. Fridays ケイジャンチキンサラダ @ T.G.I. Friday's 品川 https://t.co/7qi3YEY5GU",
+	"id" : NumberLong("885063449008648193"),
+	"user" : {
+		"id" : 238568041,
+		"description" : "Animal,Fashion,Disney,LA,Hawaii",
+		"location" : "Tokyo",
+		"name" : "Rascal Mike"
+	},
+	"geo" : null,
+	"created_at" : "Wed Jul 12 09:09:04 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb96106c8"),
+	"text" : "T.G.I. Fridays ゴールドメダリスト @ T.G.I. Friday's 品川 https://t.co/TLHDYvK0Sh",
+	"id" : NumberLong("885274228009955328"),
+	"user" : {
+		"id" : 238568041,
+		"description" : "Animal,Fashion,Disney,LA,Hawaii",
+		"location" : "Tokyo",
+		"name" : "Rascal Mike"
+	},
+	"geo" : null,
+	"created_at" : "Wed Jul 12 23:06:38 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef97d76465cdcb942bd71"),
+	"text" : "Nothing quite like getting a T.G.I. Friday's ad on a Friday the 13th: The Game video",
+	"id" : NumberLong("910465362830880770"),
+	"user" : {
+		"id" : 42388760,
+		"description" : "Arts grad taking up Accounting because guess which discipline makes more money. Likes robots, fiction and birbs. Mostly rant-tweets here.",
+		"location" : "West Malaysia",
+		"name" : "unfinished worlds"
+	},
+	"geo" : null,
+	"created_at" : "Wed Sep 20 11:27:12 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3edcf976465cdcb9a0bd95"),
+	"text" : "your wcw goes to t.g.i. friday's on a thursday night instead of an actual friday night. it's me, i'm your wcw.",
+	"id" : NumberLong("870521817466757120"),
+	"user" : {
+		"id" : 260463198,
+		"description" : "arandas, jalisco☀️",
+		"location" : "",
+		"name" : "gilletto"
+	},
+	"geo" : null,
+	"created_at" : "Fri Jun 02 06:05:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebfac76465cdcb900f938"),
+	"text" : "RT @randomlyahero: A friend of mine just said to me that they thought T.G.I. Friday's was only open on Fridays",
+	"id" : NumberLong("849884502289784832"),
+	"user" : {
+		"id" : NumberLong("2353598025"),
+		"description" : "butterflies in my mind",
+		"location" : "chance ; they/them",
+		"name" : "☁️"
+	},
+	"geo" : null,
+	"created_at" : "Thu Apr 06 07:20:30 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebfaa76465cdcb900f1bd"),
+	"text" : "#Madrid #GranVia #fridays @ T.G.I. Friday's Plaza España https://t.co/jV6gqNmMV2",
+	"id" : NumberLong("852156553129885696"),
+	"user" : {
+		"id" : 138402861,
+		"description" : "Técnico de Laboratorio de Imagen Técnico superior de Imagen y de Producción de audiovisulaes, radio y espectáculos @David_Busta @AlejandroSanz @PabloLopezMusic",
+		"location" : "Móstoles, Madrid, Spain",
+		"name" : "Natalia"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			40.42312269,
+			-3.70998798
+		]
+	},
+	"created_at" : "Wed Apr 12 13:48:49 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40906176465cdcb9e34416"),
+	"text" : "It's Friday &amp; it's Daddy's birthday!😀🎂🎉 @ T.G.I. Friday's Alabang https://t.co/VcbPTVqU8T",
+	"id" : NumberLong("923864645542088704"),
+	"user" : {
+		"id" : 369407842,
+		"description" : "Only the unwise explains himself to another.",
+		"location" : "Philippines",
+		"name" : "Paolo Bulos"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.42301994,
+			121.02933376
+		]
+	},
+	"created_at" : "Fri Oct 27 10:51:10 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40906176465cdcb9e34414"),
+	"text" : "It's Friday &amp; it's Daddy's birthday!😀🎂🎉 @ T.G.I. Friday's Alabang https://t.co/c1ezaN9LLA",
+	"id" : NumberLong("923865067912822785"),
+	"user" : {
+		"id" : 369407842,
+		"description" : "Only the unwise explains himself to another.",
+		"location" : "Philippines",
+		"name" : "Paolo Bulos"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			14.42301994,
+			121.02933376
+		]
+	},
+	"created_at" : "Fri Oct 27 10:52:51 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3feb5e76465cdcb94d0851"),
+	"text" : "Fridays for ever♥️ (@ T.G.I. Friday's in Kuwait, Hawalli Governorate) https://t.co/oIqvPVkENt",
+	"id" : NumberLong("921009399128317953"),
+	"user" : {
+		"id" : 313223149,
+		"description" : "يارب حسن الخاتمة💕",
+		"location" : "Al Qurain, Kuwait",
+		"name" : "B💫"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			29.3698184,
+			48.0130496
+		]
+	},
+	"created_at" : "Thu Oct 19 13:45:26 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fa1e376465cdcb9453ef6"),
+	"text" : "DOUBLE MUSHROOM RIBEYE. FRIDAYS en T.G.I. Friday's Ecuador https://t.co/IV4ICNsDV4",
+	"id" : NumberLong("911750184261914625"),
+	"user" : {
+		"id" : 933250297,
+		"description" : "",
+		"location" : "",
+		"name" : "GABRIELA YEPEZ"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-2.10785,
+			-79.9087799
+		]
+	},
+	"created_at" : "Sun Sep 24 00:32:38 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f816476465cdcb9a00c63"),
+	"text" : "Ahí tamos!! #CoronaSunsetParty #Fridays en T.G.I. Friday's Ecuador https://t.co/mV4GFD1cF5",
+	"id" : NumberLong("900919331311296512"),
+	"user" : {
+		"id" : 340616131,
+		"description" : "ZONA 93!! BUENA BANDA!!! XD",
+		"location" : "Guayaquil",
+		"name" : "Carlos Andres Rada H"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			-2.10785,
+			-79.9087799
+		]
+	},
+	"created_at" : "Fri Aug 25 03:14:41 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a5715"),
+	"text" : "@haleigh_mariee happy birthday!! can't wait to go to t.g.i. friday's like every friday w you😛💕",
+	"id" : NumberLong("892866414360637440"),
+	"user" : {
+		"id" : 710034256,
+		"description" : "BR'17 snapchat: paytonr14",
+		"location" : "",
+		"name" : "Payton Ribeiro"
+	},
+	"geo" : null,
+	"created_at" : "Wed Aug 02 21:55:16 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a56df"),
+	"text" : "料理の画像を投稿するのは初めて。\n・\n美味しくなんて撮れないよ💢💢\n#fridays #thursdayisthenewfriday #tokyo @ T.G.I. Friday's 品川 https://t.co/B9Mtyb8AZj",
+	"id" : NumberLong("893082379778129920"),
+	"user" : {
+		"id" : NumberLong("749833011529601024"),
+		"description" : "大分上野丘2-2",
+		"location" : "The Middle of Nowhere",
+		"name" : "たいち。"
+	},
+	"geo" : null,
+	"created_at" : "Thu Aug 03 12:13:26 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f65ce76465cdcb91a56dd"),
+	"text" : "料理の画像を投稿するのは初めて。\n美味しくなんて撮れないよ💢💢\n#fridays #thursdayisthenewfriday #tokyo @ T.G.I. Friday's 品川 https://t.co/jqHEQJGUsv",
+	"id" : NumberLong("893083161982189568"),
+	"user" : {
+		"id" : NumberLong("749833011529601024"),
+		"description" : "大分上野丘2-2",
+		"location" : "The Middle of Nowhere",
+		"name" : "たいち。"
+	},
+	"geo" : null,
+	"created_at" : "Thu Aug 03 12:16:33 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f553176465cdcb9d6061e"),
+	"text" : "Apparently the T.G.I. Friday's on city ave is club T.G.I. Friday's on Thursday nights lol",
+	"id" : NumberLong("890778798765088768"),
+	"user" : {
+		"id" : 423517315,
+		"description" : "it's 2017, I'm tryna get this shmoney. 💵",
+		"location" : "the universe",
+		"name" : "asvprach"
+	},
+	"geo" : null,
+	"created_at" : "Fri Jul 28 03:39:50 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f553176465cdcb9d605f8"),
+	"text" : ".\nちょーオシャレなとこ連れてきてもらってサプライズしてもらえて幸せものですほんとに🍔🇺🇸\n_\n#fridays#birthday#party @ T.G.I. FRIDAY'S 池袋店 https://t.co/cyNeHamy8G",
+	"id" : NumberLong("890895355516243970"),
+	"user" : {
+		"id" : NumberLong("2383254132"),
+		"description" : "'98 (19) TSU 幼教1A #chipi",
+		"location" : "もえもんと5ちろ",
+		"name" : "咲穂"
+	},
+	"geo" : null,
+	"created_at" : "Fri Jul 28 11:22:59 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb961043f"),
+	"text" : "うまうま🍔\n#fridays #saturdaynight #jackdaniels #americanburger @ T.G.I. FRIDAY'S 池袋店 https://t.co/8lS1MzSzGC",
+	"id" : NumberLong("886239596966817796"),
+	"user" : {
+		"id" : 1083261788,
+		"description" : "【@thepubliclotery】",
+		"location" : "Tokyo",
+		"name" : "みやっちょ+ん"
+	},
+	"geo" : null,
+	"created_at" : "Sat Jul 15 15:02:40 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f195676465cdcb9d5ed26"),
+	"text" : "@cirinoswag The longest Friday? Sounds like I need some Long Island ice teas at T.G.I. Friday's!!!",
+	"id" : NumberLong("878284078360838144"),
+	"user" : {
+		"id" : 540417391,
+		"description" : "St. Bernadette class of 2009",
+		"location" : "rocky river, ohio",
+		"name" : "connor martens"
+	},
+	"geo" : null,
+	"created_at" : "Fri Jun 23 16:10:16 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ef97d76465cdcb942bd7b"),
+	"text" : "It's not Friday yet but whatever. (@ T.G.I. Friday's in Petaling Jaya, Selangor) https://t.co/QSz2HDPZbm",
+	"id" : NumberLong("910403634084671489"),
+	"user" : {
+		"id" : 39768709,
+		"description" : "My tweets contain both information & crap. Mostly crap • Views are my own & don't reflect affiliated organizations • Project enquiries: rosmanpositivo@gmail.com",
+		"location" : "Kuala Lumpur, Malaysia",
+		"name" : "Rosman Nizar"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			3.14948119,
+			101.61633558
+		]
+	},
+	"created_at" : "Wed Sep 20 07:21:55 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed12976465cdcb95e0475"),
+	"text" : "🍔🧀🥑🍤🍹🌃\n#FRIDAYS だけどこの日は #MONDAY\n#mondaynight #machida @ T.G.I. FRIDAY'S https://t.co/UOwzolFyNI",
+	"id" : NumberLong("859091069585248258"),
+	"user" : {
+		"id" : NumberLong("842675502712213504"),
+		"description" : "渡辺直人 '97 Instagram⤵︎",
+		"location" : "東京 八王子市",
+		"name" : "NAOTO"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			35.5430137,
+			139.44676136
+		]
+	},
+	"created_at" : "Mon May 01 17:04:06 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ed12976465cdcb95e0417"),
+	"text" : "It's not friday, but who cares (@ T.G.I. Friday's - @tgifmalaysia in Putrajaya, WP Putrajaya) https://t.co/vnitRJrnkd",
+	"id" : NumberLong("859265937169580033"),
+	"user" : {
+		"id" : 593963155,
+		"description" : "old but gold",
+		"location" : "",
+		"name" : "jad"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			2.93918362,
+			101.70940876
+		]
+	},
+	"created_at" : "Tue May 02 04:38:58 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3e926f76465cdcb912fe85"),
+	"text" : "T.G.I. Friday's specials menu only runs Monday to Thursday. Who's celebrating the fact that it's Friday? — feeling puzzled",
+	"id" : NumberLong("840266400224694272"),
+	"user" : {
+		"id" : 411417342,
+		"description" : "Grumpy redundant IT consultant. Sliding into middle age. Music on vinyl, Gigs, Books, Movies. Camping, Politics and general disappointment",
+		"location" : "Scotland, United Kingdom",
+		"name" : "John Ireland"
+	},
+	"geo" : null,
+	"created_at" : "Fri Mar 10 18:21:35 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f8b1676465cdcb9cc9cb5"),
+	"text" : "たまにはこんなのも食べないとね(^^;\n明日はまたウェイト上げて頑張ります！\n#fridays #品川 #明日はジム #頑張る 場所: T.G.I. Friday's 品川https://t.co/kWF7BoWADa",
+	"id" : NumberLong("907957910168145922"),
+	"user" : {
+		"id" : 276981564,
+		"description" : "TOKYO METS、SNOWBOARD、夏油、HIACE、BMW",
+		"location" : "",
+		"name" : "kimu_nii"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			35.62951115,
+			139.73664643
+		]
+	},
+	"created_at" : "Wed Sep 13 13:23:29 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f4b2776465cdcb9af0b91"),
+	"text" : "Check out T.G.I. Friday's:  - RT @aReneaDay the people at Friday's keep saying awesome sauce and it's annoying af",
+	"id" : NumberLong("887425048499240960"),
+	"user" : {
+		"id" : 98301312,
+		"description" : "Real-time local buzz for places, events and local deals being tweeted about right now in Baltimore!",
+		"location" : "Baltimore",
+		"name" : "Baltimore Places"
+	},
+	"geo" : null,
+	"created_at" : "Tue Jul 18 21:33:13 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f378776465cdcb9610401"),
+	"text" : "Relaxing after the Shodan exam at Fridays #karate #karatelife @ T.G.I. FRIDAY'S, Panama https://t.co/aBIs8o6QaZ",
+	"id" : NumberLong("886361670116720640"),
+	"user" : {
+		"id" : 17340588,
+		"description" : "A simple geek gal trying to find my way... Digital Marketing. Gamer, Comics & Scifi books reader, whovian & movies.",
+		"location" : "",
+		"name" : "Alicia Royer"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			8.97868039,
+			-79.52416679
+		]
+	},
+	"created_at" : "Sat Jul 15 23:07:44 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3ebfaa76465cdcb900f1bb"),
+	"text" : "#cafetoledo #postre #Madrid #GranVia #fridays @ T.G.I. Friday's Plaza España https://t.co/GlX0x8eMlS",
+	"id" : NumberLong("852159448592162817"),
+	"user" : {
+		"id" : 138402861,
+		"description" : "Técnico de Laboratorio de Imagen Técnico superior de Imagen y de Producción de audiovisulaes, radio y espectáculos @David_Busta @AlejandroSanz @PabloLopezMusic",
+		"location" : "Móstoles, Madrid, Spain",
+		"name" : "Natalia"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			40.42312269,
+			-3.70998798
+		]
+	},
+	"created_at" : "Wed Apr 12 14:00:19 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a40e69976465cdcb9b179ae"),
+	"text" : "Follow @Friday_Otter on a Friday and you will be granted a lifetime of sick gains and half price at select T.G.I. Friday's locations",
+	"id" : NumberLong("939205311847526400"),
+	"user" : {
+		"id" : NumberLong("747623442376056833"),
+		"description" : "Gay | Rudderbutt | Sushi Bandit | & I draw big furry dudes! Some NSFW",
+		"location" : "Denver, CO",
+		"name" : "(more sin)"
+	},
+	"geo" : null,
+	"created_at" : "Fri Dec 08 18:49:30 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3fafb976465cdcb984c432"),
+	"text" : "Tak friday lagi pun (@ T.G.I. Friday's - @tgifmalaysia in George Town, Penang) https://t.co/oMOXePH5cV",
+	"id" : NumberLong("915458716836728832"),
+	"user" : {
+		"id" : 410723550,
+		"description" : "mc0307  #COYG HAIL HYDRA!",
+		"location" : "penang ",
+		"name" : "thor"
+	},
+	"geo" : {
+		"type" : "Point",
+		"coordinates" : [
+			5.435892,
+			100.311184
+		]
+	},
+	"created_at" : "Wed Oct 04 06:09:01 +0000 2017"
+}
+{
+	"_id" : ObjectId("5a3f816476465cdcb9a00d64"),
+	"text" : "i was really craving T.G.I. Friday's pasta, soo i made some😩 Friday's at home😋 https://t.co/PmTcfTYZNY",
+	"id" : NumberLong("900180363238047744"),
+	"user" : {
+		"id" : 354496105,
+		"description" : "a story that is still being written...✨",
+		"location" : "",
+		"name" : "🌻cee."
+	},
+	"geo" : null,
+	"created_at" : "Wed Aug 23 02:18:17 +0000 2017"
+}
